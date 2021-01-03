@@ -23,8 +23,11 @@ apk清理规则删除根目录app（目前已在第六套规则中修复这个�
 
 2:怎么把规则导入SD Maid？
 
+先将6套规则的压缩包都下载，然后解压。在SD Maid-系统清理-右上角小齿轮图标-用户-右上角箭头图标把解压出的json文件一个个勾选导入。
+
 3:如何反馈问题给规则作者？
 
 编写规则可能会出各种问题，我会先进行时间较长的内测，在正式发布规则后这些问题就基本都被解决了。
 如果还有问题，您可以直接提交issues。但我可能无法及时看到反馈，更建议您加入我们的Telegram群组@
-sdmaidcool（或打开这个链接:https://t.me/sdmaidcool），同时建议订阅我们的Telegram频道:@coolsdmaid
+sdmaidcool（或打开这个链接:https://t.me/sdmaidcool  ），同时建议订阅我们的Telegram频道:@coolsdmaid
+您也可以把问题私信给酷安@酷完大编。
