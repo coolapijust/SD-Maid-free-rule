@@ -1,0 +1,1 @@
+{"color":"#03a9f4","description":"注意:如果您已经root，请不要使用该规则，否则会将支付宝卸载","exclusions":["/Download\n/DCIM"],"identifier":"c6948a8f612a.scuf.sdm","label":"支付宝","maximumAge":10000000000080,"maximumSize":10000000000000,"minimumAge":0,"minimumSize":0,"pathContains":["/storage/emulated/0/alipay"],"version":4}
